@@ -19,6 +19,7 @@ Welcome to the Llm Chatbot! This chatbot leverages the Llama3 model to transform
     cd ollama-chatbot
 
 2. **Install Dependencies:**
+
     Ensure you have Python installed. Then, install the required packages:
 
     ```bash
@@ -32,6 +33,7 @@ Welcome to the Llm Chatbot! This chatbot leverages the Llama3 model to transform
     streamlit run app.py
 
 3. **Interact with the Chatbot:**
+
     Open your browser and navigate to the local Streamlit server (usually http://localhost:8501). You can start interacting with the chatbot immediately.
 
 
