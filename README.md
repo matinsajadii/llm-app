@@ -2,6 +2,8 @@
 
 Welcome to the Llm Chatbot! This chatbot leverages the Llama3 model to transform your ideas into captivating content effortlessly. Below, you'll find instructions on how to set up and run the chatbot.
 
+<image src="https://www.ismartrecruit.com/upload/blog/main_image/recruitment_chatbot_definition_features_and_benefits.webp">
+
 ## Features
 
 - Interactive Chat Interface: Communicate with the Llama3 model through a user-friendly chat interface.
