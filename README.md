@@ -15,7 +15,7 @@ Welcome to the Llm Chatbot! This chatbot leverages the Llama3 model to transform
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/ollama-chatbot.git
+    git clone https://github.com/matinsajadii/ollama-chatbot.git
     cd ollama-chatbot
 
 2. **Install Dependencies:**
